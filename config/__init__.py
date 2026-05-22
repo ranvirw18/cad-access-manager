@@ -1,0 +1,12 @@
+from config.settings import (
+    ACCESS_DAYS,
+    APP_TITLE,
+    AUTOCAD_EXE,
+    BASE_DIR,
+    COLOR_THEME,
+    DATABASE_PATH,
+    DEFAULT_ADMIN_PASSWORD,
+    DEFAULT_ADMIN_USERNAME,
+    THEME,
+    WINDOW_SIZE,
+)

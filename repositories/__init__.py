@@ -1,0 +1,2 @@
+from repositories.admin_repository import AdminRepository
+from repositories.student_repository import StudentRepository
